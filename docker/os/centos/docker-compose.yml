@@ -1,0 +1,6 @@
+version: '3.1'
+services:
+  centos_7:
+    image: centos:centos7
+    tty: true
+    
